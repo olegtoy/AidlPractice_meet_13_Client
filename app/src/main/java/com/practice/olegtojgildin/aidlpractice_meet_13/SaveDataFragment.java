@@ -24,9 +24,4 @@ public class SaveDataFragment extends Fragment {
         setRetainInstance(true);
     }
 
-    @Override
-    public void onResume() {
-        super.onResume();
-
-    }
 }

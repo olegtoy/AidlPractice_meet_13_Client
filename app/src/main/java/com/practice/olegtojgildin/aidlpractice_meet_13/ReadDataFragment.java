@@ -24,9 +24,4 @@ public class ReadDataFragment extends Fragment {
         setRetainInstance(true);
     }
 
-    @Override
-    public void onResume() {
-        super.onResume();
-
-    }
 }
